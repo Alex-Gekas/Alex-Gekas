@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on software documentation and translation
-- 🌱 I’m currently learning XML and Javascript
-- 👯 I’m looking to collaborate on documentation projects
-- 🤔 I’m looking for help with technical writing and editing
-- 💬 Ask me about my garden
+Technical Writer
+
 - 📫 How to reach me: alex.gekas@gmail.com
 - 😄 Pronouns: he/him
 

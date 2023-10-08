@@ -1,7 +1,7 @@
 
 
 Technical Writer
-Interests: API documentation/Javascript
+Interests: API documentation/Javascript  
 How to reach me: alex.gekas@gmail.com
 Pronouns: he/him
 

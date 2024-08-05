@@ -1,8 +1,7 @@
 
 
 Technical Writer
-Interests: API documentation/Javascript  
-- 👯 I’m looking to collaborate on documentation projects  
+Interests: API documentation/Javascript    
 How to reach me: alex.gekas@gmail.com  
 Pronouns: he/him
 

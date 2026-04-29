@@ -1,6 +1,6 @@
 
 
-## Hey, I'm Alex. 👋
+## About me
 
 I'm a technical writer with an IT support background. I understand 
 how things break, not just how they're supposed to work. I focus on developer 

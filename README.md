@@ -22,7 +22,7 @@ payment integration knowledge.
 ### Find me here
 
 - 📄 Portfolio: [alex-gekas.github.io](https://alex-gekas.github.io)
-- ✍️ Writing: [dev.to/alexgekas](https://dev.to/alex-gekas)
+- ✍️ Writing: [dev.to/alex-gekas](https://dev.to/alex-gekas)
 
 <!--
 **Alex-Gekas/Alex-Gekas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

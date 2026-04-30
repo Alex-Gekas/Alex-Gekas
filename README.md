@@ -7,10 +7,6 @@ how things break, not just how they're supposed to work. I focus on developer
 tutorials, API documentation, and SaaS content that actually helps people get 
 things working.
 
-Right now I'm building out my freelance practice, contributing to open source 
-projects, and working through the Stripe Developer Challenge to sharpen my 
-payment integration knowledge.
-
 ---
 
 ### What I work with

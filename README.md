@@ -17,7 +17,7 @@ things working.
 
 ## Certifications
 
-[![Stripe Certified Payments Developer](https://path-to-stripe-badge-image.png) https://stripecertifications.credential.net/b54b8fa2-9756-44d0-b003-85f95e26e319#acc.BPqYHxDR) 
+[![Stripe Certified Payments Developer](https://stripecertifications.credential.net/b54b8fa2-9756-44d0-b003-85f95e26e319#acc.BPqYHxDR) 
 Stripe Certified Payments Developer
 
 

@@ -4,8 +4,8 @@
 
 I'm a technical writer with an IT support background. I understand 
 how things break, not just how they're supposed to work. I focus on developer 
-tutorials, API documentation, and SaaS content that actually helps people get 
-things working. I also know Node.js.
+tutorials, API documentation, and content that actually helps people get 
+things working.
 
 ---
 
@@ -14,6 +14,12 @@ things working. I also know Node.js.
 `Node.js` `PHP` `WordPress` `WooCommerce` `Stripe` `REST APIs` `Webhooks` `MkDocs` `OpenAPI` `GitHub Pages`
 
 ---
+
+## Certifications
+
+[![Stripe Certified Payments Developer](https://path-to-stripe-badge-image.png) https://stripecertifications.credential.net/b54b8fa2-9756-44d0-b003-85f95e26e319#acc.BPqYHxDR) 
+Stripe Certified Payments Developer
+
 
 ### Find me here
 

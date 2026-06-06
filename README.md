@@ -24,7 +24,9 @@ things working.
 > 
 > 🎖️ **[Verify Official Certification Badge](https://stripecertifications.credential.net/b54b8fa2-9756-44d0-b003-85f95e26e319#acc.lbLoijVu)**
 > 
->![NodeJS](https://shields.io) ![HTML5](https://shields.io) ![Stripe](https://shields.io)
+>![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=flat&logo=stripe&logoColor=white)
 
 
 ### Find me here

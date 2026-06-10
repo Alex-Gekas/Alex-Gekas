@@ -20,7 +20,7 @@ things working.
 ### 🏆 Featured Project
 
 > ### 💳 [Stripe Developer Challenge](https://github.com)
-> Technical implementation challenge completed for the Stripe Certification organization.
+> Technical implementation challenge completed for the Stripe Certification organization. I completed the Stripe Developer Certification, not as a career pivot, but as a deliberate exercise in understanding the developer experience from the inside. Working through the certification in Node.js/TypeScript gave me direct exposure to the payment lifecycle, webhook event handling, and the exact friction points that show up in Stripe's own documentation. That context now informs how I write for payment integration audiences.
 > 
 > 🎖️ **[Verify Official Certification Badge](https://stripecertifications.credential.net/b54b8fa2-9756-44d0-b003-85f95e26e319#acc.lbLoijVu)**
 > 

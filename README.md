@@ -2,10 +2,7 @@
 
 ## About me
 
-I'm a technical writer with an IT support background. I understand 
-how things break, not just how they're supposed to work. I focus on developer 
-tutorials, API documentation, and content that actually helps people get 
-things working.
+Technical writer. I focus on API documentation, developer tutorials, and payment integration content.
 
 ---
 

@@ -31,6 +31,4 @@ Technical writer. I focus on API documentation, developer tutorials, and payment
 
 ---
 
-## Find me
 
-- ✍️ Writing: [dev.to/alex-gekas](https://dev.to/alex-gekas)
